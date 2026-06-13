@@ -1,10 +1,4 @@
 {
   "version": 2,
-  "buildCommand": "",
-  "outputDirectory": "public",
-  "functions": {
-    "api/claude.js": {
-      "runtime": "nodejs18.x"
-    }
-  }
+  "outputDirectory": "public"
 }
